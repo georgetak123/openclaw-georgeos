@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-georgeos",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "openclaw gateway run --host 0.0.0.0 --port $PORT"
+  },
+  "dependencies": {
+    "openclaw": "latest"
+  }
+}
